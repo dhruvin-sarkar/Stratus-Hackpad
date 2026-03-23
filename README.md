@@ -2,7 +2,7 @@
 
 >Stratus is a transparent macro controller engineered to expose the essentials. Built around a custom PCB and layered acrylic structure, it transforms raw circuitry into functional design.
 
-![Stratus Hackpad](assets/Hackpad.png)
+![Stratus Hackpad](Assets/Hackpad.png)
 
 ---
 
@@ -24,13 +24,13 @@ The playlist will cover PCB ordering, soldering the SMD components, assembling t
 
 ## Photos
 
-| Assembled | Inside | PCB (vertical) |
+| Assembled | Inside | PCB |
 |-----------|--------|-----------------|
-| ![Hackpad](assets/Hackpad.png) | ![Inside](assets/Iniside_Hackpad.png) | ![PCB](assets/PCB_Vert.png) |
+| ![Hackpad](Assets/Hackpad.png) | ![Inside](Assets/Iniside%20Hackpad.png) | ![PCB](Assets/PCB!!!!) |
 
 | Case Showcase | Schematic — MCU Page | Schematic — Other |
 |---|---|---|
-| ![Case](assets/Case_Showcase.png) | ![MCU Page](assets/MCU_PAGE.png) | ![Other Page](assets/OTHER_PAGE.png) |
+| ![Case](Assets/Case%20Showcase.png) | ![MCU Page](Assets/MCU%20PAGE.png) | ![Other Page](Assets/OTHER%20PAGE.png) |
 
 ---
 
@@ -126,4 +126,3 @@ To set shortcuts on your keyboard, use VIA.
 1. Double tap the reset button on your keyboard
 1. Keyboard will show up as an USB storage
 1. Copy and paste uf2 firmware file from your PC directly to the USB storage main directory
-
