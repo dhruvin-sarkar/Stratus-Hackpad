@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Hardware Design Temp Files
+*.bak
+*.tmp
+*.s#
+*.b#
+*.l#
+*.p#
+EasyEDA/log/
+EasyEDA/temp/
+
+# Build artifacts (optional, keeping for now as per "everything" request)
+# RP2040_firmware.uf2
