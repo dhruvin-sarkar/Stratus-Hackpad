@@ -12,11 +12,11 @@ The **Stratus Hackpad** is a DIY macropad designed for productivity, creative sh
 
 ---
 
-## 📺 Tutorial Playlist
+## Tutorial Playlist
 
 A full step-by-step video tutorial series covering everything from sourcing parts to flashing firmware is coming soon. Follow along to build your own Stratus Hackpad from scratch!
 
-> 🎬 **[Tutorial Playlist — Coming Soon]**
+> **[Tutorial Playlist — Coming Soon]**
 
 The playlist will cover PCB ordering, soldering the SMD components, assembling the case, flashing QMK/KMK firmware, and customising your layout.
 
@@ -72,10 +72,6 @@ All PCB components are sourced primarily from **LCSC**, with standoffs from **Fa
 | 30 | 1 | Crystal 12MHz | Y101 | ABM8-272-T3 | LCSC C20625731 |
 
 ---
-
-## What Else You Need to Build This
-
-Beyond the PCB components above, you will need the following additional hardware and printed parts.
 
 ### Hardware to Buy
 
