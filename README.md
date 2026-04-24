@@ -1,6 +1,5 @@
 # Stratus Hackpad
 
->Stratus is a transparent macro controller engineered to expose the essentials. Built around a custom PCB and layered acrylic structure, it transforms raw circuitry into functional design.
 
 ![Stratus Hackpad](Assets/Hackpad.png)
 
@@ -8,7 +7,7 @@
 
 ## Overview
 
-The **Stratus Hackpad** is a DIY macropad designed for productivity, creative shortcuts, and anyone who wants a fully customisable device sitting next to their keyboard. It features nine hot-swap mechanical key switches in a 3×3 layout, three rotary encoders with push-click switches, per-key addressable RGB LEDs viewable through transparent light guides, and a USB-C connection — all controlled by the Raspberry Pi RP2040 microcontroller.
+The **Stratus Hackpad** is a DIY macropad. It features nine hot-swap mechanical key switches in a 3×3 layout, three rotary encoders with push-click switches, per-key addressable RGB LEDs viewable through transparent light guides, and a USB-C connection  all controlled by the Raspberry Pi RP2040 microcontroller.
 
 ---
 
@@ -108,7 +107,7 @@ The Stratus Hackpad is compatible with both **QMK** and **KMK** (CircuitPython-b
 
 ## Contributing
 
-Pull requests and issues are welcome! If you build one, share a photo — it's always great to see the community's builds.
+Pull requests and issues are welcome! If you build one, share a photo it's always great to see the community's builds.
 
 # Set shortcuts
 To set shortcuts on your keyboard, use VIA.
